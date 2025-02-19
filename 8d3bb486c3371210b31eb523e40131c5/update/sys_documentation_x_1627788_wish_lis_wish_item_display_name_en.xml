@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="display_name" label="Display Name" language="en" table="x_1627788_wish_lis_wish_item">
+    <sys_documentation element="display_name" label="Display name" language="en" table="x_1627788_wish_lis_wish_item">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element>display_name</element>
             <help/>
